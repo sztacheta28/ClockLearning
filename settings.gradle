@@ -1,0 +1,1 @@
+include ':app', ':AndroidEasingFunctions-1.0.0', ':AndroidViewAnimations-1.1.3', ':NineOldAndroid-2.4.0'
